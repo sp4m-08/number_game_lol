@@ -24,4 +24,4 @@ A simple command-line number guessing game where players try to guess a randomly
 
 ### URL
 
-https://github.com/sp4m-08/number_game_lol.git
+[Project URL](https://github.com/sp4m-08/number_game_lol.git)
