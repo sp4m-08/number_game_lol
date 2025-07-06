@@ -15,7 +15,10 @@ A simple command-line number guessing game where players try to guess a randomly
 
 ## How to Play
 
-1. Clone this repository or copy the code into a `.go` file
+1. Clone this repository
+   ```bash
+   git clone https://github.com/sp4m-08/number_game_lol
+   ```
 2. Make sure you have Go installed on your system
 3. Run the program with:
    ```bash
