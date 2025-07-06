@@ -19,7 +19,7 @@ A simple command-line number guessing game where players try to guess a randomly
 2. Make sure you have Go installed on your system
 3. Run the program with:
    ```bash
-   go run guessgame.go
+   go run main.go
    ```
 
 ### URL
