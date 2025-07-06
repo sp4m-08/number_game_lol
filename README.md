@@ -2,6 +2,8 @@
 
 A simple command-line number guessing game where players try to guess a randomly generated number within a limited number of attempts.
 
+Practice [roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
+
 ## Features
 
 - Three difficulty levels:
